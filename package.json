@@ -1,0 +1,23 @@
+{
+  "name": "getLicenseList",
+  "version": "1.0.0",
+  "description": "패키지내 라이센스 정보 가져오기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Songsungeun/getLicenseList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Songsungeun/getLicenseList/issues"
+  },
+  "homepage": "https://github.com/Songsungeun/getLicenseList#readme",
+  "dependencies": {
+    "nopt": "^4.0.1"
+  }
+}
