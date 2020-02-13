@@ -3,6 +3,7 @@
 
 ## Options
 | Option | Short key | Description |
+| ---- | -- | --------- |
 | help | h | show help |
 | nDepth | n | search up to sub-directory |
 | out | o | create license file |
